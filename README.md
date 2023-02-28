@@ -82,7 +82,7 @@ Apresentação do projeto:<a href="https://www.canva.com/design/DAFbDX4tYWA/1WVL
 <h5>
     Fernando Alves de Paula
 </h5>
-    <img width="150" src="./assets/participantes/fernando.jpeg"/><br>
+    <img width="150" src="./assets/participantes/Fernando.jpeg"/><br>
     <a href="https://github.com/fewatts">GitHub</a><br>
 <a href="https://www.linkedin.com/in/fernando-alves-85091716b/">Linkedin</a>
 </div>
@@ -90,7 +90,7 @@ Apresentação do projeto:<a href="https://www.canva.com/design/DAFbDX4tYWA/1WVL
 <h5>
     Isaac M. Castanho
 </h5>
-    <img width="150" src="./assets/participantes/isaac.jpeg"/><br>
+    <img width="150" src="./assets/participantes/Isaac.jpeg"/><br>
     <a href="https://github.com/Isaac-MCastanho">GitHub</a><br>
 <a href="https://www.linkedin.com/in/isaacmcastanho/">Linkedin</a>
 </div>
@@ -98,7 +98,7 @@ Apresentação do projeto:<a href="https://www.canva.com/design/DAFbDX4tYWA/1WVL
 <h5>
     Luan Silva
 </h5>
-    <img width="150" src="./assets/participantes/luan.jpeg"/><br>
+    <img width="150" src="./assets/participantes/Luan.jpeg"/><br>
     <a href="https://github.com/LuanSilva94">GitHub</a><br>
 <a href="https://www.linkedin.com/in/luan-silva-6506a61a1/">Linkedin</a>
 </div>
